@@ -11,6 +11,7 @@ NodeJS
 ## Installation
 
 To clone
+`git clone https://github.com/karinlj/chat-app-vue.git.`
 
 ```
 npm install
@@ -43,5 +44,6 @@ Then use the dist folder you get.
 
 ## Acknowledgements
 
-Thank's to the Net Ninja.  
-Course:Vue -
+Thank's to The Net Ninja.
+Course: Build Web Apps with Vue JS 2 & Firebase
+https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/
