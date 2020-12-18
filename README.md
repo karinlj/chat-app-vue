@@ -1,24 +1,47 @@
-# ninja-chat
+# Chat App
 
-## Project setup
+## Description
+
+Application for exploring Vue.js. Made with Vue.js and Firebase as backend.
+
+## Prerequisites
+
+NodeJS
+
+## Installation
+
+To clone
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## To build
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Then use the dist folder you get.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Built With
+
+- vue.js
+- CSS
+- Materialize.css
+- Firebase
+
+## Author
+
+- **Karin Ljunggren** - [karinlj](https://github.com/karinlj)
+
+## Acknowledgements
+
+Thank's to the Net Ninja.  
+Course:Vue -
