@@ -1,14 +1,14 @@
 <template>
   <div class="chat container">
     <!-- outputting prop -->
-    <h2 class="ceter teal-text">Ninja Chat</h2>
+    <h2 class="center teal-text">Cat Chat</h2>
     <div class="card">
       <div class="card-content">
         <ul class="messages" v-chat-scroll>
           <li v-for="message in messages" :key="message.id">
-            <span class="teal-text name">{{message.name}}</span>
-            <span class="grey-text text-darken-3">{{message.content}}</span>
-            <span class="grey-text time">{{message.timestamp}}</span>
+            <span class="teal-text name">{{ message.name }}</span>
+            <span class="grey-text text-darken-3">{{ message.content }}</span>
+            <span class="grey-text time">{{ message.timestamp }}</span>
           </li>
         </ul>
       </div>

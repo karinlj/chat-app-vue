@@ -4,6 +4,8 @@
 
 Application for exploring Vue.js. Made with Vue.js and Firebase as backend.
 
+![Screenshot](/src/assets/screenshot.jpg?raw=true "Screenshot")
+
 ## Prerequisites
 
 NodeJS
